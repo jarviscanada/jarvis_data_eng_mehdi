@@ -5,7 +5,9 @@ and monitor each node resource, e.g. CPU/Memory usage, in real time, in a Linux
 cluster of 10 nodes/servers connected through a switch.     
 
 ## Architecture and Design
-1) Draw a cluster diagram with three Linux hosts, a DB, and agents (use draw.io website)
+1) Cluster diagram with three Linux hosts, a DB, and agents
+![Architecture](./assets/linuq_sql.jpg)
+
 2) Describe tables (no SQL code, just explain their usage)
 3) Describe scripts (no code, just explain their usage)
 
