@@ -6,6 +6,7 @@ cluster of 10 nodes/servers connected through a switch.
 
 ## Architecture and Design
 1) Cluster diagram with three Linux hosts, a DB, and agents
+
 ![Architecture](./assets/linuq_sql.jpg)
 
 2) Describe tables (no SQL code, just explain their usage)
